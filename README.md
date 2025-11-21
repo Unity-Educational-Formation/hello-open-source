@@ -84,12 +84,3 @@ After finishing all the steps here, we expect you will have a basic knowledge of
 
 <br>
 
-## Contributors
-
-Thanks goes to these wonderful people!
-
-![Contributors](https://contrib.rocks/image?repo=mazipan/hello-open-source)
-
----
-
-Copyright © 2018-present **Irfan Maulana**
